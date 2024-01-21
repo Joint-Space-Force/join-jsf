@@ -1,0 +1,34 @@
+body {
+    background-color: #ffffff;
+    background-image: url('https://www.jointspaceforce.com/fednet.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.main-header .title {
+    font-family: Arial, sans-serif;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.main-content .description {
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: bold;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.discord-link {
+    color: blue;
+    text-decoration: none;
+}
+
+.discord-link:hover,
+.discord-link:focus {
+    text-decoration: underline;
+    color: darkblue;
+}
